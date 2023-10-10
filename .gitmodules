@@ -1,0 +1,3 @@
+[submodule "undergraduate"]
+	path = undergraduate
+	url = https://github.com/OpenHUTB/undergraduate.git
